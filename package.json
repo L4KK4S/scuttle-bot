@@ -1,0 +1,20 @@
+{
+  "name": "scuttle-bot",
+  "version": "1.0.0",
+  "description": "Bot discord pour l'exploitation d'API LOL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L4KK4S/scuttle-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L4KK4S/scuttle-bot/issues"
+  },
+  "homepage": "https://github.com/L4KK4S/scuttle-bot#readme"
+}
